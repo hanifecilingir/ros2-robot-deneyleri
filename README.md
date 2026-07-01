@@ -1,6 +1,6 @@
 # ROS2 Robot Deneyleri
 
-Bu repository, Raspberry Pi 5 üzerinde Ubuntu ve ROS2 Jazzy kullanılarak gerçekleştirilen robot deneylerine ait kaynak kodları içermektedir.
+Bu repository, Raspberry Pi 5 üzerinde Ubuntu ve ROS2 Jazzy kullanılarak gerçekleştirilen robot deneylerine ait kaynak kodları içermektedir. Deneyler oluşturulmuş real-time testleri başarılı şekilde gerçekleştirilmiştir.
 
 ## İçerik
 
